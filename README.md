@@ -1,4 +1,5 @@
 # DarkMachines-UnsupervisedChallenge
+[![DOI](https://zenodo.org/badge/364732311.svg)](https://zenodo.org/badge/latestdoi/364732311)
 
 ## Abstract
 We describe the outcome of a data challenge to detect signals of new physics at the LHC using unsupervised machine learning algorithms conducted as part of the
