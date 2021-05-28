@@ -13,4 +13,15 @@ The `notebooks` directory contains jupyter notebooks for creating the figures in
 
 The individual results can be found in the `data` directory.
 
+## Contributing new models
+We encourage the development of new models using the Dark Machines datasets.
+The easiest way to compare new models will be to add a CSV file to the `data` directory using the same formatting.
+```
+Signal,Model,Chan,AUC,1e-2,1e-3,1e-4
+stop2b1000_neutralino300,YOURMODEL_NAME,1,0.87,0.21,0.10,0.05
+...
+monoV_Zp2000.0_DM_1.0,YOURMODEL_NAME,3,0.78,0.08,0.03,0.01
+```
+Then, rerun the notebooks and appending the new file to the list being analyzed.
+
 ## bibtex citation
