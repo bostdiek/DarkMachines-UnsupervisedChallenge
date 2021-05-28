@@ -12,6 +12,36 @@ Results for the Dark Machines Unsupervised Learning Challenge.
 The `notebooks` directory contains jupyter notebooks for creating the figures in the paper for the results of the over 1000 models submitted for the challenge.
 
 The individual results can be found in the `data` directory.
+```
+.
+├── data/
+│   ├── AE.csv
+│   ├── ALAD.csv
+│   ├── CNN_BVAE.csv
+│   ├── CNN_VAE.csv
+│   ├── Combined.csv
+│   ├── ConvVAE_and_Flows.csv
+│   ├── DAGMM.csv
+│   ├── DarkMachinesUnsupervisedChallenge_TotalImprovements.csv
+│   ├── DeepSetVAE.csv
+│   ├── DeepSVDD.csv
+│   ├── Flow.csv
+│   ├── KDE.csv
+│   ├── MethodsInLatentSpaceOfVAE.csv
+│   ├── Metric_Scores.csv
+│   ├── ModelsToSecretResults.csv
+│   └── VAE.csv
+├── figures/                  <- Figures from the paper
+│   └── indivdual_signals/    <- Not included in the paper, contains best results for each BSM signal
+├── LICENSE
+├── notebooks/
+│   ├── 01-ExampleBoxAndWhiskerPlot.ipynb
+│   ├── 02-AnalysisAcrossPhysicsSignals_FigureOfMerit.ipynb
+│   ├── 03-AnalysisOfTopMethodsForFiguresOfMerit.ipynb
+│   ├── 04-SignificanceImprovement.ipynb
+│   └── README.md
+└── README.md
+```
 
 ## Contributing new models
 We encourage the development of new models using the Dark Machines datasets.

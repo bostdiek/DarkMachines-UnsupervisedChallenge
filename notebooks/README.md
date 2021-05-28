@@ -7,7 +7,7 @@ Contains an example of how to load the data and how the boxplots are made.
 ### 02-AnalysisAcrossPhysicsSignals_FigureOfMerit.ipynb
 Contains analysis using the figures of merit. Looks at all signals individualy.
  * Figure 11
- * Figures for appendix A.
+ * Top models for each BSM signal for each channel
 
 ### 03-AnalysisOfTopMethodForFiguresOfMerit.ipynb
 Combines the analysis to all of the singals simultaneously. Looks for the best methods for each figure of merit.
