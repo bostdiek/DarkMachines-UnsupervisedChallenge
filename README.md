@@ -1,5 +1,7 @@
 # DarkMachines-UnsupervisedChallenge
 [![DOI](https://zenodo.org/badge/364732311.svg)](https://zenodo.org/badge/latestdoi/364732311)
+[![arXiv](https://img.shields.io/badge/arXiv-2105.14027-b31b1b.svg)](https://arxiv.org/abs/2105.14027)
+
 
 ## Abstract
 We describe the outcome of a data challenge to detect signals of new physics at the LHC using unsupervised machine learning algorithms conducted as part of the
@@ -52,6 +54,18 @@ stop2b1000_neutralino300,YOURMODEL_NAME,1,0.87,0.21,0.10,0.05
 ...
 monoV_Zp2000.0_DM_1.0,YOURMODEL_NAME,3,0.78,0.08,0.03,0.01
 ```
-Then, rerun the notebooks and appending the new file to the list being analyzed.
+Then, rerun the notebooks and append the new file to the list being analyzed.
 
 ## bibtex citation
+Please use the following bibtex citation if you use the data or notebooks from this study.
+```
+@article{Aarrestad:2021oeb,
+    author = "Aarrestad, T. and others",
+    title = "{The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider}",
+    eprint = "2105.14027",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    month = "5",
+    year = "2021"
+}
+```
