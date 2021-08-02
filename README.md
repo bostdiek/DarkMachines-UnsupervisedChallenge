@@ -57,7 +57,8 @@ monoV_Zp2000.0_DM_1.0,YOURMODEL_NAME,3,0.78,0.08,0.03,0.01
 Then, rerun the notebooks and append the new file to the list being analyzed.
 
 ## bibtex citation
-Please use the following bibtex citation if you use the data or notebooks from this study.
+Please use the following bibtex citations if you use the data or notebooks from this study.
+ * The article:
 ```
 @article{Aarrestad:2021oeb,
     author = "Aarrestad, T. and others",
@@ -67,5 +68,19 @@ Please use the following bibtex citation if you use the data or notebooks from t
     primaryClass = "hep-ph",
     month = "5",
     year = "2021"
+}
+```
+ * The code:
+```
+@software{bryan_ostdiek_2021_4897467,
+  author       = {Bryan Ostdiek},
+  title        = {{bostdiek/DarkMachines-UnsupervisedChallenge:
+                   arXiv\_v1}},
+  month        = jun,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {0.2-alpha},
+  doi          = {10.5281/zenodo.4897467},
+  url          = {https://doi.org/10.5281/zenodo.4897467}
 }
 ```
