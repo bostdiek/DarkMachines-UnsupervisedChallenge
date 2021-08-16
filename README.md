@@ -41,6 +41,7 @@ The individual results can be found in the `data` directory.
 │   ├── 02-AnalysisAcrossPhysicsSignals_FigureOfMerit.ipynb
 │   ├── 03-AnalysisOfTopMethodsForFiguresOfMerit.ipynb
 │   ├── 04-SignificanceImprovement.ipynb
+│   ├── 05-CompareWithSecretSetResults.ipynb
 │   └── README.md
 └── README.md
 ```

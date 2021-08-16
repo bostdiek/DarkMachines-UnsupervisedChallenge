@@ -24,3 +24,9 @@ Combines all channels and signal efficiencies for a given physics model to come 
  * Figure 19: Scatter of the total improvement
  * Figure 20: 3D Scatter
  * Figure 21: The models with the top median improvement
+
+### 05-CompareWithSecretSetResults.ipynb
+Takes top models on hackathon and compare with results on the _Secret Data Set_.
+ * Figure 22: 3D Mean, Median, and Max total improvement on Secret Set
+ * Figure 23: 2D Slices for both Secret and Hackathon sets
+ * Figure 24: Hackathon Median Vs. Secret Median total improvements
